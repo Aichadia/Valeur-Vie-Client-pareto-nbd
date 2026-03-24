@@ -62,7 +62,7 @@ Projet réalisé dans le cadre du Mastère *Data Science pour la Connaissance Cl
 ## 📁 Structure du repo
 
 ```
-📦Valeur Vie Client-pareto-nbd
+📦Valeur-Vie-Client-pareto-nbd
  ┣ 📂 data/
  ┃ ┗ CDNOW_master.txt         # Historique transactionnel brut
  ┣ 📂 notebooks/
