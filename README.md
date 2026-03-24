@@ -104,7 +104,9 @@ jupyter notebook notebooks/VVC_projet_stat.ipynb
 
 ---
 
-## 👩‍💻 Auteure
+## 👩‍💻 Auteurs
+
+Aicha DIAKITE - Seynabou NIANG - Louise RIGAL
 
 **Aicha DIAKITE**  
 🎓 Mastère Data Science pour la Connaissance Client — ENSAI  
